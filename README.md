@@ -1,4 +1,4 @@
-# Cancellation of Music Subsctription App
+# Cancellation of Music Subscription App
 
 Data analysis using Python libraries on real-life data from Mavin Music subscription, extracted from Excel files, involves a systematic exploration of the data to derive valuable insights and inform decision-making processes. Leveraging libraries such as Pandas, NumPy, Matplotlib, and Seaborn, analysts can perform various tasks including data cleaning, preprocessing, visualization, and statistical analysis.
 
